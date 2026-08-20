@@ -1,0 +1,6 @@
+{
+  "name": "Sổ tay giáo viên - Ngọc Lê",
+  "description": "Ứng dụng quản lý giảng dạy, điểm danh, tính điểm trung bình, xét điều kiện dự thi và quản lý sinh viên dành cho Giáo viên Ngọc Lê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
